@@ -1,2 +1,17 @@
+Проект представляет собой автоматизированный тестовый фреймворк для проверки функционала авторизации с использованием Selenium WebDriver, TestNG и Apache POI.
 
-![image](https://github.com/user-attachments/assets/878eedb8-6692-4c14-a9d7-e5f33b43b19f)
+Особенности:
+  Параллельное выполнение тестов в браузерах Chrome и Edge
+  Data-Driven Testing с использованием Excel-файлов
+  Автоматическое создание скриншотов при падении тестов
+  Гибкая конфигурация через properties-файлы
+  Поддержка нескольких браузеров
+  Предварительные требования
+  Java 17 или выше
+  Maven 3.8+
+  
+Браузеры:
+  Google Chrome
+  Microsoft Edge
+  
+![image](https://github.com/user-attachments/assets/d1c77efd-7a05-445a-b951-6406aa7e2140)
